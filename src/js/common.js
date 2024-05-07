@@ -1,5 +1,4 @@
 'use strict'
-console.log('common')
 
 import Swiper from 'swiper';
 import {Navigation, Autoplay} from 'swiper/modules';
